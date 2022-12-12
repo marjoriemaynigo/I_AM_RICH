@@ -5,7 +5,7 @@ void main() {
     MaterialApp(
       debugShowCheckedModeBanner: false,
       home: Scaffold(
-        backgroundColor: Colors.blueGrey,
+        backgroundColor: Colors.white12,
         appBar: AppBar(
           title: Text('I Am Rich'),
           backgroundColor: Colors.blueGrey[900],
